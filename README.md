@@ -1,10 +1,9 @@
 # VRMLipSyncContextMorphTarget
-OVRLipSyncでVRMモデルのリップシンクをさせるだけのやつ。
+OVRLipSyncでVRMモデルのリップシンクをさせるシンプルなやつ。
 
 ## Dependency
-* OVRLipSync が必要。
-
-[https://developer.oculus.com/downloads/package/oculus-lipsync-unity/](https://developer.oculus.com/downloads/package/oculus-lipsync-unity/)
+* OVRLipSync https://developer.oculus.com/downloads/package/oculus-lipsync-unity/
+* UniVRM https://github.com/dwango/UniVRM/releases
 
 ## Usage
 OVRLipSyncのサンプルの**OVR**LipSyncContextMorphTargetと同じ場所に**VRM**LipSyncContextMorphTargetコンポーネントを貼るだけ。
