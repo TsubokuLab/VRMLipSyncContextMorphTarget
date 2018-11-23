@@ -3,6 +3,7 @@ OVRLipSyncでVRMモデルのリップシンクをさせるだけのやつ。
 
 ## Dependency
 * OVRLipSync が必要。
+
 [https://developer.oculus.com/downloads/package/oculus-lipsync-unity/](https://developer.oculus.com/downloads/package/oculus-lipsync-unity/)
 
 ## Usage
@@ -14,6 +15,7 @@ OVRLipSyncのサンプルの**OVR**LipSyncContextMorphTargetと同じ場所に**
 
 ## Author
 Teruaki Tsubokura [http://teruaki-tsubokura.com/](http://teruaki-tsubokura.com/)
+
 [@kohack_v](https://twitter.com/kohack_v)
 
 ## License
