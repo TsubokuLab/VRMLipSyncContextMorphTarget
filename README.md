@@ -7,7 +7,9 @@ OVRLipSyncでVRMモデルのリップシンクをさせるだけのやつ。
 
 ## Usage
 OVRLipSyncのサンプルの**OVR**LipSyncContextMorphTargetと同じ場所に**VRM**LipSyncContextMorphTargetコンポーネントを貼るだけ。
+
 自動でヒエラルキーからVRMBlendShapeProxyを見つけてアタッチしてくれます。
+
 手動で設定する場合は```SetVRMBlendShapeProxy(VRMBlendShapeProxy _proxy)```へVRMについているVRMBlendShapeProxyを投げる。
 
 ## Author
