@@ -1,0 +1,2 @@
+# VRMLipSyncContextMorphTarget
+OVRLipSyncでVRMモデルのリップシンクをさせるやつ。VRMLipSyncContextMorphTarget
