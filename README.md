@@ -6,7 +6,7 @@ OVRLipSyncでVRMモデルのリップシンクをさせるシンプルなやつ�
 * UniVRM https://github.com/dwango/UniVRM/releases
 
 ## Usage
-OVRLipSyncのサンプルの**OVR**LipSyncContextMorphTargetの部分を、**VRM**LipSyncContextMorphTargetコンポーネントを入れ替える。
+OVRLipSyncのサンプルの**OVR**LipSyncContextMorphTargetの部分を、**VRM**LipSyncContextMorphTargetコンポーネントに入れ替えるだけ。
 
 自動でヒエラルキーからVRMBlendShapeProxyを見つけてアタッチしてくれます。
 
