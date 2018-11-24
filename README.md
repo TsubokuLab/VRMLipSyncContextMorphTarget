@@ -1,6 +1,8 @@
 # VRMLipSyncContextMorphTarget
 OVRLipSyncでVRMモデルのリップシンクをさせるシンプルなやつ。
 
+OVRLipSyncはシーンに１つあればいいので、VRMモデルごとにOVRLipSyncを生成するのではなく、シーンに配置されたOVRLipSyncにVRMモデルのVRMBlendShapeProxy側をセットして制御するという設計になっています。
+
 ## Dependency
 * OVRLipSync https://developer.oculus.com/downloads/package/oculus-lipsync-unity/
 * UniVRM https://github.com/dwango/UniVRM/releases
